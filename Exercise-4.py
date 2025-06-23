@@ -1,5 +1,5 @@
-def remove_chars(pynative, n):
-    return pynative[n:]
+def remove_chars(word, n):
+    return word[n:]
     
 print("Removing characters from a string")
 print(remove_chars("pynative", 4)) 
